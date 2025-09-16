@@ -1,5 +1,5 @@
 {
-  "name": "vite-holders",
+  "name": "vite-react-typescript-starter",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -14,8 +14,10 @@
     "@solana/web3.js": "^1.98.4",
     "@supabase/supabase-js": "^2.57.4",
     "lucide-react": "^0.344.0",
+    "papaparse": "^5.5.3",
     "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "react-dom": "^18.3.1",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "@esbuild-plugins/node-globals-polyfill": "^0.2.3",
